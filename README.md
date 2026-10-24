@@ -34,4 +34,4 @@ A lightweight and efficient Python-based tool designed to evaluate user password
 2. Clone this repository or download the script file (`password_checker.py`).
 3. Open your terminal or command prompt and run the script:
    ```bash
-   python password_checker.py
+   python random password generator.py
